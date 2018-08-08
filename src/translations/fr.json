@@ -21,7 +21,7 @@
   "Your Results":"Votre score",
   "Scores":"Scores (%)",
   "Time":"Temps (Minutes)",
-  "Cloze":"Trou No",
+  "Cloze":"Cloze",
   "Cloze Text":"Texte à trous",
   "Blank Type": "Type des trous",
   "Write In": "A taper",
@@ -30,9 +30,14 @@
   "Test Exercise":"Tester l'exercice",
   "MCQ":"QCM",
   "Reorder List":"Liste à ordonner",
-  "My Activity":"Mon Activité",
-  "Home":"Accueil",
-  "Add Exercise":"Créer un exercise",
-  "Network":"Réseau",
-  "Stop":"Stop"
+  "My Activity":"My Activity",
+  "Home":"Home",
+  "Add Exercise":"Add Exercise",
+  "Network":"Network",
+  "Stop":"Stop",
+  "Title field can't be empty":"Title field can't be empty",
+  "Question field can't be empty":"Question field can't be empty",
+  "Answer field can't be empty":"Answer field can't be empty",
+  "Cloze field can't be empty":"Cloze field can't be empty",
+  "List field can't be empty":"List field can't be empty"
 }
